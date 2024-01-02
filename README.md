@@ -1,3 +1,3 @@
-# New Project Clone of a webiste Called "FinCore"
+# New Project Clone webiste "FinCore"
 
 [live demo](https://cool-starship-e08939.netlify.app)
